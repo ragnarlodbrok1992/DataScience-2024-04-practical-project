@@ -1,1 +1,12 @@
+# Virtual env
 venv/
+
+# Datasets
+test/ML-datasets/
+test/kaggle-celeba-dataset/
+
+# Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Tensorflow
+test/tensorflow/
