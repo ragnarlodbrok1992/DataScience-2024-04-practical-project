@@ -10,3 +10,8 @@ test/kaggle-celeba-dataset/
 
 # Tensorflow
 test/tensorflow/
+
+# Tags stuff
+tags.lock
+tags.temp
+tags
