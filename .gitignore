@@ -4,6 +4,7 @@ venv/
 # Datasets
 test/ML-datasets/
 test/kaggle-celeba-dataset/
+datasets/
 
 # Jupyter notebook checkpoints
 **/.ipynb_checkpoints/
